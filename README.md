@@ -1,4 +1,5 @@
 🌱 Cotton Plant Disease Classification using Deep Learning
+
 🌍 Overview
 Cotton is a crucial cash crop, but diseases can significantly impact yield and quality. This project develops an AI-powered disease detection system that classifies cotton plant leaves as healthy or infected by specific diseases using Deep Learning. By leveraging Convolutional Neural Networks (CNNs), this system can assist farmers and agricultural experts in early disease detection, leading to better crop management and improved yields.
 
